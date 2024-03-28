@@ -25,3 +25,20 @@ CDN - Content Delivery Network
   
 
 TimeStamp : 23:09
+
+AWS Amplify - service that lets you deploy REACT apps.
+
+API Gateway - make routes and name them
+
+ie /cache route that is called GET
+ie /content POST
+
+Lambda - written code that runs getCodeChallenge
+
+**THIS LAB**
+
+Amazon EC2 - Amazon Elastic Compute Cloud
+- instance of a linux server
+
+Amazon Elastic Beanstalk - End-to-end web application management.
+  - its an easy-to-use service for deploying and scaling web applications and services developed with Java,.NET, PHP, Node.js, Python, Ruby, Go, and Docker.

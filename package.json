@@ -1,0 +1,24 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "Storage Cloud - When I change the file   - computer tells the server that there is a change   - server knows this and downloads it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bran2miz/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bran2miz/cloud-server/issues"
+  },
+  "homepage": "https://github.com/bran2miz/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
