@@ -22,3 +22,6 @@ CDN - Content Delivery Network
 
 - Eventual Consistency
   - 1000 copies of databases, everything can be the same eventually but not in real time. 
+  
+
+TimeStamp : 23:09
